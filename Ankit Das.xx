@@ -1,0 +1,13 @@
+// LANGUAGE: JAVA
+// AUTHOR: Ankit Das 
+// GITHUB: https://github.com/AD11-web
+
+
+# This program is in JAVA!
+
+public class Hacktoberfest 
+{
+    public static void main(String[] args) {
+        System.out.println("Hello, Hacktoberfest 2023");
+    }
+}
